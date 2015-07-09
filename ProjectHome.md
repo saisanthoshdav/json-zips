@@ -1,0 +1,1 @@
+US Zip codes in JSON format - that's it.
